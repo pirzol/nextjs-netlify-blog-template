@@ -137,5 +137,5 @@ collections:
             - "tags.*.name"
           valueField: "tags.*.slug"
       - label: "Body"
-        name: "body"
+        name: "גוף הסיפור"
         widget: "markdown"
