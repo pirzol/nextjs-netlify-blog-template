@@ -126,7 +126,7 @@ collections:
         widget: list
         summary: "{{fields.tag}}"
         field:
-          label: Tag
+          label: טגיות
           name: tag
           widget: relation
           collection: "meta"
