@@ -139,6 +139,7 @@ collections:
       - label: "גוף הסיפור"
         name: "body"
         widget: "markdown"
+        
   - name: "stories"
     label: "Stories"
     folder: "/content/stories"
