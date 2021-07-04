@@ -134,7 +134,7 @@ collections:
           searchFields:
             - "tags.*.name"
           displayFields:
-            - "tags.*.name" 
+            - "tags.*.name"
           valueField: "tags.*.slug"
       - label: "גוף הסיפור"
         name: "body"
