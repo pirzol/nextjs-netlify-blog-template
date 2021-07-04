@@ -148,3 +148,4 @@ collections:
       - { name: 'title', label: 'Title', widget: 'string' }
       - { name: 'body', label: 'Body', widget: 'markdown', hint: 'enter story here' }
       - { name: 'author', label: 'Author', widget: 'hidden', default: "a teacher" }
+      - { name: 'level', label: 'Level', widget: 'select', requited: true }
