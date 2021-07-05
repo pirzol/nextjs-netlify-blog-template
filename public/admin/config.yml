@@ -4,7 +4,8 @@ backend:
 media_folder: public/images
 public_folder: /images
 publish_mode: editorial_workflow
-
+slug:
+  sanitize_replacement: "_"
 collections:
   - name: "config"
     label: "Config"
