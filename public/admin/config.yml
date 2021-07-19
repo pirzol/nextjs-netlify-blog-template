@@ -164,6 +164,8 @@ collections:
         widget: 'select'
         required: true
         options:
-          - { label: 'רמה 1', value: 'level1' }
-          - { label: 'רמה 2', value: 'level2' }
-          - { label: 'רמה 3', value: 'level3' }
+          - { label: 'רמה 1', value: 'bw_lev_1' }
+          - { label: 'רמה 2', value: 'bw_lev_2' }
+          - { label: 'רמה 3', value: 'bw_lev_3' }
+          - { label: 'רמה 4', value: 'bw_lev_4' }
+          - { label: 'רמה 5', value: 'bw_lev_5' }
