@@ -3,10 +3,12 @@ backend:
   branch: master
 media_folder: public/images
 public_folder: /images
+publish_mode: editorial_workflow
 
 collections:  
   - name: "stories"
     label: "Stories"
+    publish: false
     folder: "/content/stories"
     create: true
     delete: false
