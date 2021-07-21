@@ -145,7 +145,7 @@ collections:
     label: "Stories"
     folder: "/content/stories"
     create: true
-    slug: "{{slug}}_{{title}}"
+    slug: "{{slug}}"
     fields:
       - name: 'title'
         label: 'Title'
