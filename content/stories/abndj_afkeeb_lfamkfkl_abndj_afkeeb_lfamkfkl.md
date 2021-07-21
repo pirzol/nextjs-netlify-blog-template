@@ -3,9 +3,9 @@ title: אֲנִי אוֹהֵב לֶאֱכוֹל
 author: a teacher
 level: bw_lev_1
 ---
-אֲנִי אוֹהֵב לִי לֶאֱכוֹל
-חֲבִיתָה, סָלָט, כִּמְעַט הַכָּל!
-וְאָח שֶׁלִי זֶה הַקָטָן,
-עוֹשֶׂה בָּאוֹכֶל בָּלָגָן.
-הוּא לֹא אוֹכֵל דָבָר כִּמְעַט,
-וְלֹא נוֹגֵעַ בַּסָלָט!
+aBnDj afKeEb lDj lFaMkfKl
+hBbDjvHe, oHlHi, kLDmApGi eGkLHl!
+fAaHh wJFlDj gFe eGsLHiHz,
+pfKwIFe bLHafKkFl bLHlHcHz.
+efLa lKa afKkEl dLHbHt kLDmApGi,
+fAlKa nfKcEpG bLGoLHlHi!
