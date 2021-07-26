@@ -35,4 +35,8 @@ collections:
           - { label: 'רמה 3', value: 'bw_lev_3' }
           - { label: 'רמה 4', value: 'bw_lev_4' }
           - { label: 'רמה 5', value: 'bw_lev_5' }
-
+      - label: "Featured Image"
+        name: "thumbnail"
+        widget: "image"
+        choose_url: false
+        default: "/uploads/chocolate-dogecoin.jpg"
