@@ -2,7 +2,7 @@
 title: אֲנִי אוֹהֵב לֶאֱכוֹל
 author: a teacher
 level: bw_lev_2
-image: https://res.cloudinary.com/plantscope/image/upload/v1522093596/_MG_8026_gsydhj.jpg
+image: ""
 ---
 אֲנִי מַמָּשׁ אוֹהֵב לֶאֱכוֹל
 
