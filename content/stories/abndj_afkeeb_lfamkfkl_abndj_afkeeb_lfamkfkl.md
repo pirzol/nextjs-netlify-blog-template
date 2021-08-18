@@ -5,7 +5,7 @@ level: bw_lev_2
 image: >-
   https://res.cloudinary.com/plantscope/image/upload/v1628668073/bookworm_webapp/illustrations/anj_afeb_lakfl.jpg
 reading: >-
-  {"admin":{"pirzol":"https://res.cloudinary.com/plantscope/video/upload/v1629295430/Admin%20recordings/mn7y4kqyqqfydcg7lpcm.mp3"}}
+  {"admin":{"pirzol":"https://res.cloudinary.com/plantscope/video/upload/v1629295763/Admin%20recordings/wivmquj7kgviesygmqlw.mp3"}}
 ---
 אֲנִי מַמָּשׁ אוֹהֵב לֶאֱכוֹל
 
