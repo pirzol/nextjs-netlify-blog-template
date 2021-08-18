@@ -4,6 +4,8 @@ author: a teacher
 level: bw_lev_2
 image: >-
   https://res.cloudinary.com/plantscope/image/upload/v1628668073/bookworm_webapp/illustrations/anj_afeb_lakfl.jpg
+reading: >-
+  {"admin":{"pirzol":"https://res.cloudinary.com/plantscope/video/upload/v1629292905/Admin%20recordings/abnmpoirpqjjwv7rokmh.mp3"}}
 ---
 אֲנִי מַמָּשׁ אוֹהֵב לֶאֱכוֹל
 
